@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tools:
+  - Rails 5 API
+  - Ruby version: 2.6.1
+  - word
 
-Things you may want to cover:
+API Descriptions:
+  - Single endpoint API 
+  - no-auth API
+  - Algorith: Binary Search
+  - no-database, only one read-only file
 
-* Ruby version
+Deployed on: http://wordtwist-api.herokuapp.com
+ 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
