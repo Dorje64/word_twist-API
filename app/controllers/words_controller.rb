@@ -30,7 +30,6 @@ class WordsController < ApplicationController
     prev_gap = 1
     # gap = sear  ch[:max]
     while(recent_gap<prev_gap)
-      puts "#{search[:max]} - #{search[:min]} = #{search[:max] - search[:min]}"
       prev_gap = search[:max] - search[:min]
       # gap = search[:max] - search[:min]
       # prev_word = line_word || search_word 
